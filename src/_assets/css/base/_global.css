@@ -1,8 +1,12 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #333;
-  padding:25px;
-  margin: 10px;
+  background-color: rgb(224, 30, 30);
+  margin: 30px;
+}
+
+div div {
+  background-color: #FFF;
+  padding: 20px;
 }
 
 img {
@@ -10,7 +14,7 @@ img {
   height: auto;
 }
 
-.box {
+.box: {
   a {
     display: block;
     padding: 10px;
